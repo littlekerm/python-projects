@@ -1,0 +1,106 @@
+# Investigation File generated for Scientific Data with Investigation File Authoring Tool version 0.1.0 on 23/11/2017 - This metadata file is CC0
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	IAO	UO	ERO	OBI	ENVO
+Term Source File	http://data.bioontology.org/ontologies/IAO	http://data.bioontology.org/ontologies/UO	http://data.bioontology.org/ontologies/ERO	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/ENVO
+Term Source Version	2015-02-23	unknown	2013-08-02	2014-08-18	
+Term Source Description	Information Artifact Ontology	Units of Measurement Ontology	Eagle-I Research Resource Ontology	Ontology for Biomedical Investigations	Environment Ontology
+INVESTIGATION
+Investigation Identifier
+Investigation Title
+Investigation Description
+Investigation Submission Date
+Investigation Public Release Date
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person Mid Initials
+Investigation Person First Name
+Investigation Person Address
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Email
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	10.1038/sdata.2017.191
+Study Title	TerraClimate, a high-resolution global dataset of monthly climate and climatic water balance from 1958–2015
+Study Submission Date	07/08/2017
+Study Public Release Date	09/01/2018
+Study Description	http://www.nature.com/articles/sdata2017191#abstract
+Study File Name	s_study_Abatzoglou.txt
+Comment[Subject Keywords]	//;/;///
+Comment[Manuscript Licence]	CC BY-4.0
+Comment[Experimental Metadata Licence]	CC0
+Comment[Supplementary Information File Name]		Supplementary Figure S1	Supplementary Figure S2
+Comment[Supplementary Information File Type]	x-zip-compressed	pdf	pdf
+Comment[Supplementary Information File URL]	http://www.nature.com/articles/sdata2017191#supplementary-information	http://www.nature.com/articles/sdata2017191#supplementary-information	http://www.nature.com/articles/sdata2017191#supplementary-information
+Comment[Data Repository]	Northwest Knowledge Network
+Comment[Data Record Accession]	doi:10.7923/G43J3B0R
+Comment[Data Record URI]	http://doi.org/10.7923/G43J3B0R
+STUDY DESIGN DESCRIPTORS
+Study Design Type	data integration objective	observation design	source-based data analysis objective
+Study Design Type Term Accession Number	ERO:0100092	OBI:0300311	ERO:0100121
+Study Design Type Term Source REF	ERO	OBI	ERO
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	data collection interval
+Study Factor Type	temporal_interval
+Study Factor Type Term Accession Number	http://www.ifomis.org/bfo/1.1/span#TemporalInterval
+Study Factor Type Term Source REF	ERO
+STUDY ASSAYS
+Study Assay Measurement Type	climate
+Study Assay Measurement Type Term Accession Number	ENVO:01001082
+Study Assay Measurement Type Term Source REF	ENVO
+Study Assay Technology Type	digital curation
+Study Assay Technology Type Term Accession Number	OBI:0302914
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	""
+Study Assay File Name	a_assay_Abatzoglou.txt
+STUDY PROTOCOLS
+Study Protocol Name	Data sources	Data source integration
+Study Protocol Type	selection	digital curation
+Study Protocol Type Term Accession Number	OBI:0001928	OBI:0302914
+Study Protocol Type Term Source REF	OBI	OBI
+Study Protocol Description		
+Study Protocol URI	""	""
+Study Protocol Version		
+Study Protocol Parameters Name	spatial resolution; temporal resolution	""
+Study Protocol Parameters Name Term Accession Number	""	""
+Study Protocol Parameters Name Term Source REF	""	""
+Study Protocol Components Name	""	""
+Study Protocol Components Type	""	""
+Study Protocol Components Type Term Accession Number	""	""
+Study Protocol Components Type Term Source REF	""	""
+STUDY CONTACTS
+Study Person Last Name	Abatzoglou	Dobrowski	Parks	Hegewisch
+Study Person First Name	John T.	Solomon Z.	Sean A.	Katherine C.
+Study Person Mid Initials	T			
+Study Person Email	jabatzoglou@uidaho.edu	""	""	""
+Study Person Phone	2088856239			
+Study Person Fax	""			
+Study Person Address	875 Perimeter Dr. MS 3021			
+Study Person Affiliation	University of Idaho, Department of Geography, 875 Perimeter Dr, Moscow, ID 83844, USA	University of Montana, Department of Forest Management, Missoula, MN 59812, USA	USDA Forest Service, Rocky Mountain Research Station, Aldo Leopold Wilderness Research Institute, 790 E. Beckwith Ave, Missoula, MT 59801, USA	University of Idaho, Department of Geography, 875 Perimeter Dr, Moscow, ID 83844, USA
+Study Person Roles	""			
+Study Person Roles Term Accession Number				
+Study Person Roles Term Source REF				
+Comment[Study Person ORCID]	0000-0001-7599-9750			
+Comment[Funder]	""			
+Comment[FundRef ID]	Google Earth Engine faculty research awards to J.A. and S.D			
+Comment[Funder Term Source REF]	""			
+Comment[Grant Identifier]	""			

@@ -1,0 +1,16 @@
+Sample Name	Protocol REF	Assay Name	Raw Data File	Comment[Data Repository]	Comment[Data Record Accession]	Comment[Data Record URI]	Factor Value[data collection interval]
+WorldClim v2_temp	Data source integration	WorldClim v2_temp	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1970/2000
+WorldClim v2_vap	Data source integration	WorldClim v2_vap	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1970/2000
+WorldClim v2_pr	Data source integration	WorldClim v2_pr	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1970/2000
+WorldClim v2_srad	Data source integration	WorldClim v2_srad	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1970/2000
+WorldClim v2_ws	Data source integration	WorldClim v2_ws	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1970/2000
+WorldClim v1.4_temp	Data source integration	WorldClim v1.4_temp	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1960/1990
+CRU Ts4.0_temp	Data source integration	CRU Ts4.0_temp	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1958/2015
+CRU Ts4.0_vap	Data source integration	CRU Ts4.0_vap	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1958/2015
+CRU Ts4.0_pr	Data source integration	CRU Ts4.0_pr	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1958/2015
+JRA-55_temp	Data source integration	JRA-55_temp	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1958/20015
+JRA-55_vap	Data source integration	JRA-55_vap	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1958/20015
+JRA-55_pr	Data source integration	JRA-55_pr	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1958/20015
+JRA-55_srad	Data source integration	JRA-55_srad	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1958/20015
+JRA-55_ws	Data source integration	JRA-55_ws	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	1958/20015
+Root zone storage capacity_wsc	Data source integration	Root zone storage capacity_wsc	doi:10.7923/G43J3B0R	Northwest Knowledge Network	doi:10.7923/G43J3B0R	http://doi.org/10.7923/G43J3B0R	
